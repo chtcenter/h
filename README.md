@@ -88,7 +88,7 @@ Job and higher education placement will be recorded with follow-up after one yea
 
 Completion rate of housing will be judged by unit occupancy after one year from the start of the program.
 
-## program linkages
+## Program Linkages
 The organization will form a partnerships and alliances with other organizations and agencies and a variety of groups and programs.
 
 The organization will venture significant linkages with the said partners.
@@ -123,7 +123,7 @@ Initiating fundraising activities in soliciting or submitting project proposals 
 ### DONATION APPEAL
 For
 
-Community Housing and Training (CHT) Programs & Projects
+### Community Housing and Training (CHT) Programs & Projects
 
 Dear Friends:
  
@@ -155,15 +155,41 @@ With this reality, I opened this window of opportunities to seek any amount as v
  
 On behalf of the beneficiaries we serve, thank you for your time and considerations. Please don’t hesitate to contact us if you have any questions regarding our programs and projects or how your donations help us. We will be happy to answer your questions.
 
-AYUB M. SARIUL, Chief Executive Officer                                                                                                E-mail: chtprogram@yahoo.com or chtprogram@gmail.com                                                                               Mobile Nos. +63 9261868016                                                                                                                Kambantangan Sa Kapagungaya Peace Advocate, Incorporated                                                                            Bagua-II, Cotabato City 9600, Philippines
+AYUB M. SARIUL, Chie                                                 
 
-You can DONATE any amount towards the CHT Programs and Projects on this Bank’s Account:
+E-mail: chtprogram@yahoo.com or chtprogram@gmail.com
 
-Account Name: AYUB MALANG SARIUL                                                                                                  Account Number: 5107727274                                                                                                          Bank’s Name: LAND BANK OF THE PHILIPPINES                                                                                           Branch: Magallanes Branch                                                                                                         Address: Don Rufino Alonzo Street, Cotabato City 9600, Philippines                                                                  Bank’s Tel. Nos: (02) 405-7000 or 1-800-10-405-7000                                                                                Contact Mobile Phone: +63 9261868016
+Mobile Nos. +63 9261868016
 
-For accounting and acknowledgement purposes of any donation, you may fill-up this information:
- 
-Name of Donor:                                                                                                                      Amount Donated:                                                                                                                   Address:                                                                                                                          Contact Number:                                                                                                                       Date
+Kambantangan Sa Kapagungaya Peace Advocate, Incorporated
+
+Bagua-II, Cotabato City 9600, Philippines
+
+### You can DONATE any amount towards the CHT Programs and Projects on this Bank’s Account:
+Account Name: AYUB MALANG SARIUL
+                                                                                                                                       
+Account Number: 5107727274
+
+Bank’s Name: LAND BANK OF THE PHILIPPINES
+
+Branch: Magallanes Branch
+
+Address: Don Rufino Alonzo Street, Cotabato City 9600, Philippines
+
+Bank’s Tel. Nos: (02) 405-7000 or 1-800-10-405-7000
+
+Contact Mobile Phone: +63 9261868016
+
+### For accounting and acknowledgement purposes of any donation, you may fill-up this information:
+ Name of Donor:                                                                                                                        
+
+Amount Donated:
+
+Address:
+
+Contact Number:
+
+Date
 
 # Resume
 ## OBJECTIVES:
@@ -172,13 +198,67 @@ Name of Donor:                                                                  
 2. To be an instruments in bridging the assistance between the DONOR individuals, groups, organizations and foundations and the target BENEFICIARIES of the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects
 
 ## BASIC INFORMATION
-Name: Ayub Malang Sariul                                                                                                         Address: Poblacion 1, Cotabato City 9600, Philppines                                                                               Mobile No.: +63 9261868016                                                                                                       Volunteer Interest Area:                                                                                                          Directly Serving People, Disaster Relief, Education, Homeless and Housing, Language Instruction/ESL and Social Services
+Name: Ayub Malang Sariul                                                                                                         
+
+Address: Poblacion 1, Cotabato City 9600, Philppines                                                                               
+
+Mobile No.: +63 9261868016                                                                                                       
+
+Volunteer Interest Area:                                                                                                          
+
+Directly Serving People, Disaster Relief, Education, Homeless and Housing, Language Instruction/ESL and Social Services
 
 ## CONTACT INFORMATION
-E-mail: chtprogram@yahoo.com                                                                                                  Profession: Teacher                                                                                                               Agency: Department of Education (DepEd-ARMM)                                                                                      Summary Description:
+E-mail: chtprogram@yahoo.com                                                                                                  
+
+Profession: Teacher                                                                                                               
+
+Agency: Department of Education (DepEd-ARMM)                                                                                      
+
+Summary Description:
 
 I am one of the Government Secondary School Teachers of the Department of Education-Autonomous Region in Muslim Mindanao (DepEd-ARMM) and Chief Executive Officer of Kambantangan Sa Kapagungaya Peace Advocates, Incorporated (KKPAI) registered as Non-Stock, Non-Profit Non-Government Organization with special program on COMMUNITY HOUSING AND TRAINING (CHT).
 
 Before I joined government service in 2007, I have been College Professor of Cotabato City State Polytecnic College, Mindanao Capitol College, Headstart College of Criminology, SKIA Foundation College School Principal of SKI Academy, Co-Founder and Coordinator of UKPU Urban Poor Association and BOD’s Chairman and CEO KK Peace Advocates, Incorporated.
 
-Experiences:                                                                                                                      College Professor                                                                                                                    School Principal                                                                                                                     BOD’s Chairman and CEO KK Peace Advocates, Incorporated
+Experiences:                                                                                                                      d
+
+College Professor                                                                                                                    
+
+School Principal                                                                                                                     
+
+BOD’s Chairman and CEO KK Peace Advocates, Incorporated
+
+## EDUCATION
+Degree Graduated: Bachelor of Secondary Education-Major in English (BSEd-ENGLISH) 
+                                           
+College/University: NOTRE DAME UNIVERSITY
+
+Post Graduates: Master of Arts in Education-Major in School Administration and Supervision (M.A.Ed-School Administration and Supervision) 
+                                          
+College/University: COTABATO CITY STATE POLYTECHNIC COLLEGE                                         
+ 
+Sklls and Expertise: Teaching, Community Organizing and Development and Management
+                                                                                    
+## VOLUNTEER EXPERIENCE AND CAUSES
+Organizer and Facilitator:
+
+Co-Founder and Coordinator of Urban Poor Association particularly UKPU Urban Poor Association run by women sector beause of felt needs experience living as informal settlers.
+
+I acted as an organizer and coordinate to form an association.
+
+### Causes To Care About:
+Beneficial for Community Development and the people.
+
+### Organization To Support
+Community and Grassroots organizations that alleviate human dignity and poverty.
+
+### Contributing: 
+The CHT Program welcomes anyone who could contribute in one way or another for building towards the success of this program's projects.
+
+
+
+
+
+
+
