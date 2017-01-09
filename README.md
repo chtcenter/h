@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Community Housing and Training (CHT) Programs
 
 You can use the [editor on GitHub](https://github.com/KKPAI-chtprogram/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
