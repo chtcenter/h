@@ -19,6 +19,29 @@
 'The housing component will provide aid not only to those families requiring assisted housing but also to those families who are direct beneficiaries of non-housing component of the CHT program. We anticipate that percentage of the units will be set aside for **school buildings, values formation center, multi-purpose center and office**.'
 
 # Vision
+
+'The program which we **ENVISION** is **multifaceted** (*means having a variety of different and important features or elements of the program, from sheltering, educational services, occupational/livelihood skills training and social services including counseling and values formation for self-worth as human being*), **comprehensive** (*means something that includes everything that is needed or relevant, programs that are complementary to each other in a typical community from educational, economic to social services*) and **innovative** (*something that is new and original, programs’ approaches which are more innovative than those of their competitions, like; approaches to educational services outside of the formal school, It introduces changes and new ideas which are believed to be effective in today’s complex driven environment*).'
+
+'The Housing Component will provide aid not only to those families requiring assisted housing but also to those families who are direct beneficiaries of non-housing component of the CHT program. We anticipate that percentage of the units will be set aside for school buildings, values formation center and multi-purpose center and office.'
+
+# Project Description
+
+'The project calls for the ACQUISITION OF LAND WITH THE PROVISION OF LOW-COST HOUSING for the NINETY (90) families or THREE HUNDRED SIXTY (360) individuals including members of the family of the organization, all of them are classified as among the “LOW-INCOME earners or the poor.”'
+
+'**Prioritization of Needs**'
+
+'The **LAND** – The organization has identified the problem of land acquisition as its PRIORITY. The land where this is being settled is already acquired by the organization through our initiatives and voluntary contributions. With a total land area of 20,000 square meters, 14,000 square meters will be allotted for housing. This represents 70% of the total land area. The other 30% of the land or 6,000 square meters is for **roads**, **parks or open space** as required by law and **multi-purpose center**, **values formation center** and **school buildings**.'
+
+'The **DWELLING UNITS**. The construction of dwelling units for the members is the second priority need of the organization. Considering the lack of funds, the members, however, could temporarily make use of already available materials for the construction of their temporary dwelling units, while the organization is seeking out for the construction costs of the housing project to interested donors, philanthropists and generous individuals or groups.'
+
+'Moreover, the organization is committed to shoulder the administrative costs and expenses, examples; survey cost, titling and registration, taxes and regulatory fees.'
+
+'Nevertheless, if ever funds would be available, the organization is willing to shoulder the labor cost in the construction of the houses.'
+
+'The organization is contemplating on the **MEDIUM-RISE HOUSING MODEL** (One Storey Residential Building). The model has an estimated minimum construction cost of **ONE HUNDRED FIFTY THOUSAND PESOS (P150,000.00)**.'
+
+# Program Goals and Objectives
+
 You can use the [editor on GitHub](https://github.com/KKPAI-chtprogram/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
