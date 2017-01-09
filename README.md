@@ -186,39 +186,86 @@
 
 'Contact Mobile Phone: **+63 9261868016**'
 
+'For accounting and acknowledgement purposes of any donation, you may fill-up this information:'
 
-You can use the [editor on GitHub](https://github.com/KKPAI-chtprogram/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+'Name of the Donor:'
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+'Amount Donated:'
 
-### Markdown
+'Address:'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+'Contact Number:'
 
-```markdown
-Syntax highlighted code block
+'Date:'
 
-# Header 1
-## Header 2
-### Header 3
+# Resume
 
-- Bulleted
-- List
+'**OBJECTIVES**'
 
-1. Numbered
-2. List
+'1. To be able to find windows of opportunities for resource support particularly to fund the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects that be benefitted by the Poor specifically the homeless families, less in education children and youth and unskilled parents and individuals; and'
 
-**Bold** and _Italic_ and `Code` text
+'2. To be an instruments in bridging the assistance between the DONOR individuals, groups, organizations and foundations and the target BENEFICIARIES of the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects.'
 
-[Link](url) and ![Image](src)
-```
+'**BASIC INFORMATION**'
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+'Name:                            **Ayub Malang Sariul**'
 
-### Jekyll Themes
+'Address:                         **Poblacion 1, Cotabato City 9600, Philppines**'
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KKPAI-chtprogram/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+'Mobile No.:                      **+63 9261868016**'
 
-### Support or Contact
+'Volunteer Interest Area:' 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+'Directly Serving People, Disaster Relief, Education, Homeless and Housing, Language Instruction/ESL and Social Services'
+
+'**CONTACT INFORMATION**'
+
+'E-mail:                           **chtprogram@yahoo.com**'
+
+'Profession:                       **Teacher**'
+
+'Agency:                           **Department of Education (DepEd-ARMM)**'
+
+'Summary Description:'
+
+'I am one of the Government Secondary School Teachers of the Department of Education-Autonomous Region in Muslim Mindanao (DepEd-ARMM) and Chief Executive Officer of Kambantangan Sa Kapagungaya Peace Advocates, Incorporated (KKPAI) registered as Non-Stock, Non-Profit Non-Government Organization with special program on COMMUNITY HOUSING AND TRAINING (CHT).'
+
+'Before I joined government service in 2007, I have been **College Professor** of Cotabato City State Polytecnic College, Mindanao Capitol College, Headstart College of Criminology, SKIA Foundation College **School Principal** of SKI Academy, **Co-Founder and Coordinator** of UKPU Urban Poor Association and BOD’s Chairman and CEO KK Peace Advocates, Incorporated.'
+
+'Experience:'                       
+
+'College Professor'
+                                         
+'School Principal'
+
+'BOD’s Chairman and CEO KK Peace Advocates, Incorporated'
+
+'**EDUCATION**'
+
+'Degree Graduated:             Bachelor of Secondary Education-Major in English (BSEd-ENGLISH)'
+
+'College/University:           NOTRE DAME UNIVERSITY'
+
+'Post Graduates:               Master of Arts in Education-Major in School  Administration and Supervision (M.A.Ed-School Administration                                and Supervision)'
+
+'College/University:          COTABATO CITY STATE POLYTECHNIC COLLEGE'
+
+'Sklls and Expertise:          Teaching, Community Organizing and Development and Management'
+
+'**VOLUNTEER EXPERIENCE AND CAUSES**'
+
+'**Organizer and Facilitator**:'
+
+'Co-Founder and Coordinator of Urban Poor Association particularly UKPU Urban Poor Association run by women sector beause of felt needs experience living as informal settlers.'
+
+'I acted as an organizer and coordinate to form an association.'
+
+'**Causes To Care About**:
+
+'Beneficial for Community Development and the people.'
+
+'**Remarks:**'
+
+'The CHT Program welcomes anyone who could contribute in one way or another for building towards the success of this program's projects.'
+
+
