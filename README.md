@@ -4,6 +4,7 @@
 
 'Kambantangan Sa Kapagongaya Peace Advocates, Inc. through its **Community Housing and Training (CHT) Program** initiates a low-cost housing project in the targeted area at Barangay Tamontaka 5, Cotabato City for its homeless members mostly low-income earner families particularly the poor who were affected and displaced because of the armed conflict between the government troops and rebel groups, living with extended relatives and informal settlers residing in the highly congested poor areas which could hardly be called a homes in this city.'
 
+'The **CHT Program** will also provide occupational skills training for unskilled individuals and members of the family in order to enhance and to develop their capabilities and skills to augment their family income as well as basic educational services for less in education and school-age children and leadership development counseling and values formation for self-worth and dignity as human being and can be productive members of the society.'
 
 You can use the [editor on GitHub](https://github.com/KKPAI-chtprogram/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
