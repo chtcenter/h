@@ -42,6 +42,151 @@
 
 # Program Goals and Objectives
 
+'**General:**'
+
+'To provide assisted housing, occupational/livelihood skills training as well as basic educational services and leadership development counseling and  values formation to conflict affected families, who are living with extended relatives, no permanent house, low-income earners with less in education and livelihood skills.'
+
+'**Specific:**'
+
+'To empower member of the organization and community development through life-long learning for all;'
+
+'To transform socially and improve the quality of life of the member-beneficiaries through life-long learning;'
+
+'To cater to the learning and training needs of the members, peer meeting, education, values formation, livelihood training and other group activities;'
+
+'To serve as a venue to preserve, strengthen, and promote desired culture and integrate them towards the attainment of cultural understanding, unity and cooperation;'
+
+'To serve as a venue to train and upgrade the skills of religious preachers, teachers, trainers, facilitators and other persons involved in education activities;'
+
+'To serve as a venue for values formation, teaching and other organizational activities such as organization meeting, planning and evaluation, committee meeting;'
+
+'To serve as a vehicle to generate funds and sustain the management and maintenance of the Multi Purpose Center;'
+
+'To serve as a venue to establish and strengthen linkages and network among NGOs, POs, GOs engaged in same activities;'
+
+'To provide educational services outside of the formal school for the members to have a pre knowledge and skills in understanding the expected belief for their life;'
+
+'To be able to inculcate in the minds of the member-beneficiaries the standard norms, desired values and  culture, self-worth, importance of human dignity and hopes for a brighter future;'
+
+'To provide the family members with occupational skills to enhance their capability and skills in order to augment their family income; and'
+
+'To be able to become a good model in leading and abiding the expected standard norms in the community and become productive members of the society.'
+
+# Program Results
+
+'**Job Placement and Post-Graduation Follow-up**'
+
+'The one-year CHT Program will offer participants a solid cognitive, developmental, and experiential foundation for future life and work. However, training and education require substantive follow-up of job placement and continuing counselling services for program graduates.'
+
+'During the last month of the CHT Program, as participants focus on interview and oral written skills (development of resume) in their speech, writing and leadership counselling classes, they will become familiar with job in the locality. Applicants will receive support in the form of counselling services as appropriate.'
+
+'Measurable objectives will be achieved by the number of participants who are recruited and who complete the application process. In addition for each class and the training sessions, attendance will be taken. Attendance will measure the degree of program success. No applicant will be permitted to graduate without attending 90% of the session in each area.'
+
+'Upon acceptance into the program, each student will be given a traditional placement exam, the scores of which will be compared with the scores upon graduation.'
+
+'Job and higher education placement will be recorded with follow-up after one year of the exiting of the individual students. Follow-up counselling will be made available.'
+
+'Completion rate of housing will be judged by unit occupancy after one year from the start of the program.'
+
+'**Program Linkages**'
+
+'The organization will form a partnerships and alliances with other organizations and agencies and a variety of groups and programs.'
+
+'The organization will venture significant linkages with the said partners.'
+
+'A venture with the service agencies; NHA, HLURB for housing of its members, technical training and social services with Deped, DSWD, TESDA and with other NGOs domestic and foreign.'
+
+'The organization will partner with many groups and organizations to fulfil its mission.'
+
+'**i. Some of the Planned Activities:**'
+
+'Affiliation with concerned agencies, organizations (Gov’t and Private, domestic and foreign) for various activities and programs, including the construction of Multi Purpose Center, the construction of assisted housing units, classrooms, mosque and office.'
+
+'For the purpose of providing proper training and counselling for the CHT Program participants, the partnership will approach TESDA, DSWD, DepEd and Da’wah organizations, for assistance in providing the specific and broader curriculum that is necessary for the progress of each of the program participants.'
+
+'Initiating fundraising activities in soliciting or submitting project proposals to aid agencies, donors, generous individuals or groups, philanthropists, domestic and foreign for technical and financial assistance on the programs and projects.'
+
+# Programs and Services
+
+'**1. HOUSING**'
+
+'**2. EDUCATION**'
+
+'**3. VALUES FORMATION**'
+
+'**4. TECHNICAL and LIVELIHOOD SKILLS TRAINING ASSISTANCE**'
+
+'**5. LEADERSHIP and COUNSELING**'
+
+'**6. COOPERATIVE**'
+
+'**7. Facilitating Relief Assistance**'
+
+# Program's Needs and Appeal
+
+'**DONATION APPEAL**'
+
+'For'
+
+'**Community Housing and Training (CHT) Programs & Projects**'
+
+'Dear **Friends**:'
+
+'Greetings of **PEACE**.'
+
+'With prayers and hopes, we could be an instruments in bridging an opportunities to the needy and less privilege sectors of the society under the today’s complex driven environment.'
+
+'With our collective efforts and your generous donations towards the Programs and Projects of the **Community Housing and Training (CHT) a truly responsive programs** for the needy sectors of our society under the today’s complex driven environment, we could **HELP** the dignity and self-worth of poor homeless families, **SAVE** the children and youth from the threats of exploitation, **GIVE A NEW HOPES** for children and their families through education and other social services.'
+
+'I am writing you with prayers and hope that we could be an instruments in finding resource support opportunities for these programs and projects that could help our low-income earner families particularly the poorest of the poor, less in education, unskilled, living with extended relatives and no permanent house, affected and displaced by armed conflict between the government troops and rebel groups in neighboring areas.'
+
+'I am one of the Government Secondary School Teachers of the Department of Education-Autonomous Region in Muslim Mindanao (DepEd-ARMM) and Chief Executive Officer of Kambantangan Sa Kapagungaya Peace Advocates, Incorporated (KKPAI) registered as Non-Stock, Non-Profit Non-Government Organization with **special program on COMMUNITY HOUSING AND TRAINING (CHT)**.'
+
+'Before I joined government service in 2007, I have been **College Professor** of Cotabato City State Polytecnic College, Mindanao Capitol College, Headstart College of Criminology, SKIA Foundation College **School Principal** of SKI Academy, **Co-Founder and Coordinator** of UKPU Urban Poor Association and BOD’s **Chairman and CEO** KK Peace Advocates, Incorporated.'
+
+'The **emergence of the COMMUNITY HOUSING AND TRAINING (CHT) PROGRAM** is out of our deepest concerns on the low-income earner families, the poor and through series of studies with a group of Professionals and friends from different sectors of society but with one common objective; to help the needy.'
+
+'Until now, we have generous individuals, friends within the community support our programs, however due to the overall cumulative effect of the economy, we have been unable to secure the essential funding for the Community Housing and Training (CHT) Programs and Projects.'
+
+'We are in the midst of seeking financial support for this CHT Program and projects. The CHT Program envisioned “To establish a community  with strong faith in God, in human dignity  or self-worth and hopes for a brighter future  through the intervention of assisted housing, educational, occupational or livelihood skills and social services.”'
+
+'The program is **multifaceted** (*means having a variety of different and important features or elements of the program, from sheltering, educational services, occupational/livelihood skills training and social services including counseling and values formation for self-worth as human being*), **comprehensive** (*means something that includes everything that is needed or relevant, programs that are complementary to each other in a typical community from educational, economic to social services*) and **innovative** (*something that is new and original, programs’ approaches which are more innovative than those of their competitions, like; approaches to educational services outside of the formal school, It introduces changes and new ideas which are believed to be effective in today’s complex driven environment*). No other organizations in the area offer such programs.'
+
+'The Management Team is composed of a group of Volunteer Professionals and Gov’t Employees whose role is instrumental in establishing programs on housing, educational services, livelihood/occupational skills training, social services and cooperative for the low-income earner families under the today’s complex driven environment.'
+
+'The **COMMUNITY HOUSING and TRAINING (CHT) PROGRAM** is looking for your generous support and help for the realization of its **Vision**, **Mission** and **Goals**.'
+
+'With this reality, I opened this window of opportunities to seek any amount as voluntary contribution and  support for the **COMMUNITY HOUSING and TRAINING (CHT) PROGRAM** from a generous friend like you with heart for charitable activities. I strongly believed when your 1 Peso is added to my 1 Peso and added to our 1 Peso would be a big deal for the continuous implementation of CHT Programs and Projects, and could **HELP**, **SAVE** and **GIVE A NEW HOPES** for the needy sectors of our society.'
+
+'On behalf of the beneficiaries we serve, thank you for your time and considerations. Please don’t hesitate to contact us if you have any questions regarding our programs and projects or how your donations help us. We will be happy to answer your questions.'
+
+'**AYUB M. SARIUL**, Chief Executive Officer' 
+
+'E-mail: **chtprogram@yahoo.com or chtprogram@gmail.com**' 
+
+'Mobile Nos. **+63 9261868016**' 
+
+'Kambantangan Sa Kapagungaya Peace Advocate, Incorporated' 
+
+'Bagua-II, Cotabato City 9600, Philippines'
+
+'You can DONATE any amount towards the CHT Programs and Projects on this Bank’s Account:'
+
+'Account Name:         **AYUB MALANG SARIUL**'
+
+'Account Number:       **5107727274**'
+
+'Bank’s Name:          **LAND BANK OF THE PHILIPPINES**'
+
+'Branch:               **Magallanes Branch**'
+
+'Address:              **Don Rofino Alonzo Street, Cotabato City 9600, Philippines**'
+
+'Bank’s Tel. Nos:      **(02) 405-7000 or 1-800-10-405-7000**'
+
+'Contact Mobile Phone: **+63 9261868016**'
+
+
 You can use the [editor on GitHub](https://github.com/KKPAI-chtprogram/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
