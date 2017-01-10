@@ -172,7 +172,7 @@
 
 'You can DONATE any amount towards the CHT Programs and Projects on this Bank’s Account:'
 
-'Account Name:         **AYUB MALANG SARIUL**                                                                                      Account Number:        **5107727274**                                                                                               Bank’s Name:           **LAND BANK OF THE PHILIPPINES**                                                                             Branch:                **Magallanes Branch**                                                                                       Address:               **Don Rofino Alonzo Street, Cotabato City 9600, Philippines**                                                Bank’s Tel. Nos:       **(02) 405-7000 or 1-800-10-405-7000**                                                                        Contact Mobile Phone:  **+63 9261868016**'
+'Account Name:         **AYUB MALANG SARIUL**'                                                                                      'Account Number:        **5107727274**'                                                                                               'Bank’s Name:           **LAND BANK OF THE PHILIPPINES**'                                                                             'Branch:                **Magallanes Branch**                                                                                       'Address:               **Don Rofino Alonzo Street, Cotabato City 9600, Philippines**'                                                'Bank’s Tel. Nos:       **(02) 405-7000 or 1-800-10-405-7000**'                                                                        'Contact Mobile Phone:  **+63 9261868016**'
 
 'For accounting and acknowledgement purposes of any donation, you may fill-up this information:'
 
@@ -288,3 +288,8 @@
 
 # Philosophy of Operation
 
+'1. Know & believe that God is in-charge: Make intentions and leave the rest to Him. Allow him to operate through you. Obey Him because He is our gracious Master and we are His grateful servants.'
+
+'2. Start small and build upon it: The strongest house is where the foundation is placed one layer at a time allowing for the first to solidify before the second is laid on. This is how the organization operates. Although it makes for a slow process, nonetheless the product is sounder.'
+
+'3. The power of sincere initiative: We believe in the power of sincere initiative and then when 3-5 sincere hearts unite on the same purpose, tremendous change for the good can be brought in a society.'
