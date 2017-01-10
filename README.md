@@ -172,11 +172,21 @@
 
 'You can DONATE any amount towards the CHT Programs and Projects on this Bank’s Account:'
 
-'Account Name:         **AYUB MALANG SARIUL**'                                                                                      'Account Number:        **5107727274**'                                                                                               'Bank’s Name:           **LAND BANK OF THE PHILIPPINES**'                                                                             'Branch:                **Magallanes Branch**                                                                                       'Address:               **Don Rofino Alonzo Street, Cotabato City 9600, Philippines**'                                                'Bank’s Tel. Nos:       **(02) 405-7000 or 1-800-10-405-7000**'                                                                        'Contact Mobile Phone:  **+63 9261868016**'
+'Account Name:         **AYUB MALANG SARIUL**'                                                                                      
+'Account Number:        **5107727274**'                                                                                               
+'Bank’s Name:           **LAND BANK OF THE PHILIPPINES**'                                                                             
+'Branch:                **Magallanes Branch**                                                                                       '
+'Address:               **Don Rofino Alonzo Street, Cotabato City 9600, Philippines**'                                                
+'Bank’s Tel. Nos:       **(02) 405-7000 or 1-800-10-405-7000**'                                                                        
+'Contact Mobile Phone:  **+63 9261868016**'
 
 'For accounting and acknowledgement purposes of any donation, you may fill-up this information:'
 
-'Name of the Donor:                                                                                                                 Amount Donated:                                                                                                                  Address:                                                                                                                          Contact Number:                                                                                                                     Date:'
+'Name of the Donor:'                                                                                                                 
+'Amount Donated:'                                                                                                                  
+'Address:'                                                                                                                          
+'Contact Number:'                                                                                                                     
+'Date:'
 
 # Resume
 
