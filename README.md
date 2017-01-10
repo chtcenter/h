@@ -202,9 +202,9 @@
 
 '**OBJECTIVES**'
 
-'1. To be able to find windows of opportunities for resource support particularly to fund the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects that be benefitted by the Poor specifically the homeless families, less in education children and youth and unskilled parents and individuals; and'
+-1. To be able to find windows of opportunities for resource support particularly to fund the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects that be benefitted by the Poor specifically the homeless families, less in education children and youth and unskilled parents and individuals; and-
 
-'2. To be an instruments in bridging the assistance between the DONOR individuals, groups, organizations and foundations and the target BENEFICIARIES of the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects.'
+-2. To be an instruments in bridging the assistance between the DONOR individuals, groups, organizations and foundations and the target BENEFICIARIES of the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects.-
 
 '**BASIC INFORMATION**'
 
@@ -288,9 +288,9 @@
 
 'The Community Housing and Training (CHT) Program’s organization focused in three (3) major areas;'
 
-	'1. It **primarily provides a range of direct hands-on member services** including but not limited to counselling and referral on assisted housing, social security, skills training, educational services and healthcare;'
+-1. It **primarily provides a range of direct hands-on member services** including but not limited to counselling and referral on assisted housing, social security, skills training, educational services and healthcare;-
 	
-	'2. It **fundamentally directed towards planning and development** with an emphasis on housing development, livelihood skills training and organizational development; and'
+-2. It **fundamentally directed towards planning and development** with an emphasis on housing development, livelihood skills training and organizational development; and-
 	
-	'3. It importantly relates to **community and advocates** for issues important to the community and its members.'
+-3. It importantly relates to **community and advocates** for issues important to the community and its members.-
 
