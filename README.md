@@ -109,17 +109,25 @@
 # Programs and Services
 
 '**1. HOUSING**'
+
 '**2. EDUCATION**'
+
 '**3. VALUES FORMATION**'
+
 '**4. TECHNICAL and LIVELIHOOD SKILLS TRAINING ASSISTANCE**'
+
 '**5. LEADERSHIP and COUNSELING**'
+
 '**6. COOPERATIVE**'
+
 '**7. Facilitating Relief Assistance**'
 
 # Program's Needs and Appeal
 
 '**DONATION APPEAL**'
+
 'For'
+
 '**Community Housing and Training (CHT) Programs & Projects**'
 
 'Dear **Friends**:'
@@ -152,10 +160,14 @@
 
 'On behalf of the beneficiaries we serve, thank you for your time and considerations. Please don’t hesitate to contact us if you have any questions regarding our programs and projects or how your donations help us. We will be happy to answer your questions.'
 
-'**AYUB M. SARIUL**, Chief Executive Officer' 
-'E-mail: **chtprogram@yahoo.com or chtprogram@gmail.com**' 
-'Mobile Nos. **+63 9261868016**' 
-'Kambantangan Sa Kapagungaya Peace Advocate, Incorporated' 
+'**AYUB M. SARIUL**, Chief Executive Officer'
+
+'E-mail: **chtprogram@yahoo.com or chtprogram@gmail.com**'
+
+'Mobile Nos. **+63 9261868016**'
+
+'Kambantangan Sa Kapagungaya Peace Advocate, Incorporated'
+
 'Bagua-II, Cotabato City 9600, Philippines'
 
 'You can DONATE any amount towards the CHT Programs and Projects on this Bank’s Account:'
@@ -187,7 +199,9 @@
 '**BASIC INFORMATION**'
 
 'Name:                            **Ayub Malang Sariul**'
+
 'Address:                         **Poblacion 1, Cotabato City 9600, Philppines**'
+
 'Mobile No.:                      **+63 9261868016**'
 
 'Volunteer Interest Area:' 
@@ -197,7 +211,9 @@
 '**CONTACT INFORMATION**'
 
 'E-mail:                           **chtprogram@yahoo.com**'
+
 'Profession:                       **Teacher**'
+
 'Agency:                           **Department of Education (DepEd-ARMM)**'
 
 'Summary Description:'
@@ -209,15 +225,21 @@
 '**Experience**:'                       
 
 'College Professor'
+
 'School Principal'
+
 'BOD’s Chairman and CEO KK Peace Advocates, Incorporated'
 
 '**EDUCATION**'
 
 'Degree Graduated:             Bachelor of Secondary Education-Major in English (BSEd-ENGLISH)'
+
 'College/University:           NOTRE DAME UNIVERSITY'
+
 'Post Graduates:               Master of Arts in Education-Major in School  Administration and Supervision (M.A.Ed-School Administration                                and Supervision)'
+
 'College/University:          COTABATO CITY STATE POLYTECHNIC COLLEGE'
+
 'Sklls and Expertise:          Teaching, Community Organizing and Development and Management'
 
 '**VOLUNTEER EXPERIENCE AND CAUSES**'
@@ -257,21 +279,29 @@
 'The Community Housing and Training (CHT) Program’s organization focused in three (3) major areas;'
 
 '1. It **primarily provides a range of direct hands-on member services** including but not limited to counselling and referral on assisted housing, social security, skills training, educational services and healthcare;'
+
 '2. It **fundamentally directed towards planning and development** with an emphasis on housing development, livelihood skills training and organizational development; and'
+
 '3. It importantly relates to **community and advocates** for issues important to the community and its members.'
 
 # Goals
 
 '1. To provide assisted housing project to its members;'
+
 '2. To provide educational services outside of the formal school for the members to have a pre knowledge and skills in understanding the expected belief for their life;'
+
 '3. To be able to deliver the true message and expectations of the organization and to apply in their life;'
+
 '4. To provide the family members with occupational skills to augment the family income; and'
+
 '5. To be able to have a better understanding on the CHT program and resources and to take a model in leading and abiding the expected standard  norms in the community.'
 
 # Philosophy of Operation
 
 '1. **Know & believe that God is in-charge**: Make intentions and leave the rest to Him. Allow him to operate through you. Obey Him because He is our gracious Master and we are His grateful servants.'
+
 '2. **Start small and build upon it**: The strongest house is where the foundation is placed one layer at a time allowing for the first to solidify before the second is laid on. This is how the organization operates. Although it makes for a slow process, nonetheless the product is sounder.'
+
 '3. **The power of sincere initiative**: We believe in the power of sincere initiative and then when 3-5 sincere hearts unite on the same purpose, tremendous change for the good can be brought in a society.'
 
 'You can DONATE any amount towards the CHT Programs and Projects on this Bank’s Account:'
