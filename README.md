@@ -172,39 +172,19 @@
 
 'You can DONATE any amount towards the CHT Programs and Projects on this Bank’s Account:'
 
-'Account Name:         **AYUB MALANG SARIUL**'
-
-'Account Number:       **5107727274**'
-
-'Bank’s Name:          **LAND BANK OF THE PHILIPPINES**'
-
-'Branch:               **Magallanes Branch**'
-
-'Address:              **Don Rofino Alonzo Street, Cotabato City 9600, Philippines**'
-
-'Bank’s Tel. Nos:      **(02) 405-7000 or 1-800-10-405-7000**'
-
-'Contact Mobile Phone: **+63 9261868016**'
+'Account Name:         **AYUB MALANG SARIUL**                                                                                      Account Number:        **5107727274**                                                                                               Bank’s Name:           **LAND BANK OF THE PHILIPPINES**                                                                             Branch:                **Magallanes Branch**                                                                                       Address:               **Don Rofino Alonzo Street, Cotabato City 9600, Philippines**                                                Bank’s Tel. Nos:       **(02) 405-7000 or 1-800-10-405-7000**                                                                        Contact Mobile Phone:  **+63 9261868016**'
 
 'For accounting and acknowledgement purposes of any donation, you may fill-up this information:'
 
-'Name of the Donor:'
-
-'Amount Donated:'
-
-'Address:'
-
-'Contact Number:'
-
-'Date:'
+'Name of the Donor:                                                                                                                 Amount Donated:                                                                                                                  Address:                                                                                                                          Contact Number:                                                                                                                     Date:'
 
 # Resume
 
 '**OBJECTIVES**'
 
--1. To be able to find windows of opportunities for resource support particularly to fund the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects that be benefitted by the Poor specifically the homeless families, less in education children and youth and unskilled parents and individuals; and-
+'1. To be able to find windows of opportunities for resource support particularly to fund the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects that be benefitted by the Poor specifically the homeless families, less in education children and youth and unskilled parents and individuals; and'
 
--2. To be an instruments in bridging the assistance between the DONOR individuals, groups, organizations and foundations and the target BENEFICIARIES of the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects.-
+'2. To be an instruments in bridging the assistance between the DONOR individuals, groups, organizations and foundations and the target BENEFICIARIES of the COMMUNITY HOUSING and TRAINING (CHT) Programs and Projects.'
 
 '**BASIC INFORMATION**'
 
@@ -288,9 +268,23 @@
 
 'The Community Housing and Training (CHT) Program’s organization focused in three (3) major areas;'
 
--1. It **primarily provides a range of direct hands-on member services** including but not limited to counselling and referral on assisted housing, social security, skills training, educational services and healthcare;-
+'1. It **primarily provides a range of direct hands-on member services** including but not limited to counselling and referral on assisted housing, social security, skills training, educational services and healthcare;'
 	
--2. It **fundamentally directed towards planning and development** with an emphasis on housing development, livelihood skills training and organizational development; and-
+'2. It **fundamentally directed towards planning and development** with an emphasis on housing development, livelihood skills training and organizational development; and'
 	
--3. It importantly relates to **community and advocates** for issues important to the community and its members.-
+'3. It importantly relates to **community and advocates** for issues important to the community and its members.'
+
+# Goals
+
+'1. To provide assisted housing project to its members;'
+
+'2. To provide educational services outside of the formal school for the members to have a pre knowledge and skills in understanding the expected belief for their life;'
+
+'3. To be able to deliver the true message and expectations of the organization and to apply in their life;'
+
+'4. To provide the family members with occupational skills to augment the family income; and'
+
+'5. To be able to have a better understanding on the CHT program and resources and to take a model in leading and abiding the expected standard  norms in the community.'
+
+# Philosophy of Operation
 
