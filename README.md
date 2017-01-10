@@ -268,4 +268,29 @@
 
 'The CHT Program welcomes anyone who could contribute in one way or another for building towards the success of this program's projects.'
 
+# Background
+
+## The Emergence of the COMMUNITY HOUSING AND TRAINING (CHT) PROGRAM
+
+'The emergence of the **COMMUNITY HOUSING AND TRAINING (CHT) PROGRAM** is out of our social concerns on the low-income earner families particularly who were affected by armed conflicts between the gov’t troops and rebel groups, who are living with extended relatives, no permanent house and anywhere in this city and nearby areas, who are classified as low-income earners, with less education and livelihood skills and through series of studies with a group of Professionals and friends from different sectors of society but with one common objective; to help the needy.'
+
+'The **Community Housing and Training (CHT) Program** is instrumental in establishing and providing programs for housing, social services, education and skills training for its members.'
+
+'It is a primary source of essential services and administers comprehensive programs involving social services, health, education, occupational and assisted housing.'
+
+'It provides fundamental social services involving counseling and values formation in a variety of social, health and family related programs.'
+
+# Vision
+
+'To establish a community  with strong faith in God, in human dignity  or self-worth and hopes for a brighter future  through the intervention of assisted housing, educational, occupational or livelihood skills and social services.'
+
+# Mission
+
+'The Community Housing and Training (CHT) Program’s organization focused in three (3) major areas;'
+
+	'1. It **primarily provides a range of direct hands-on member services** including but not limited to counselling and referral on assisted housing, social security, skills training, educational services and healthcare;'
+	
+	'2. It **fundamentally directed towards planning and development** with an emphasis on housing development, livelihood skills training and organizational development; and'
+	
+	'3. It importantly relates to **community and advocates** for issues important to the community and its members.'
 
