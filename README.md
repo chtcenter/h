@@ -1,8 +1,11 @@
 ## Welcome to Community Housing and Training (CHT) Center
 
-'The COMMUNITY HOUSING AND TRAINING (CHT) CENTER  for a  comprehensive, innovative and responsive program in today's complex driven environment with the provision of educational services as well as livelihood skills training and values formation for strong faith in God and self-worth as human being with dignity.'
+' A center for a  comprehensive, innovative and responsive program in today's complex driven environment with the provision of educational services as well as livelihood skills training and values formation for strongaith in God and self-worth as human being with dignity.'
 
-'The CHT Program emerged  out of our concerns on the  experiences and felt needs of some sectors of the society; the war-affected children, youth and their families.'  
+'The COMMUNITY HOUSING AND TRAINING (CHT) PROGRAM aims to provide access to basic education
+among the children, functional literacy, and livelihood for the parents and community-based education and learning facilities. It is an initiative that vigorously complements the overall thrusts and efforts to strengthen the basic education program of the government and particularly in the ARMM.'
+
+'The CHT Program emerged  out of our concerns on the  experiences and felt needs of some sectors of the society; the war-affected children, youth and their families.'  
 
 # Program and Project Rationale
 
