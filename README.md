@@ -92,7 +92,7 @@
 
 # Programs and Services
 
-' The COMMUNITY HOUSING AND TRAINING PROGRAM will have five (5) inter-related and mutually supportive components.' 
+' The COMMUNITY HOUSING AND TRAINING PROGRAM will have five (5) inter-related and mutually supporive components.' 
  
 The ** Assisted Housing** 
  
