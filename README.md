@@ -520,7 +520,7 @@ Account Name:          **AYUB MALANG SARIUL**'
 
 '**VOLUNTEER EXPERIENCE AND CAUSES**'
 
-'**Organizer and Facilitator**:'
+**Organizer and Facilitator**
 
 'Co-Founder and Coordinator of Urban Poor Association particularly UKPU Urban Poor Association run by women sector beause of felt needs experience living as informal settlers.'
 
